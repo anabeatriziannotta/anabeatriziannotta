@@ -16,6 +16,7 @@
 #### :microscope: Já sou formada em Engenharia Química; 
 #### :coffee: E não funciono sem café rsrs
 
+
 <div>
 <a href="https://github.com/anabeatriziannotta">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatriziannotta&layout=compact&langs_count=7&theme=dracula"/>
