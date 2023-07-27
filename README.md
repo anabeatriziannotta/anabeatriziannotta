@@ -2,7 +2,7 @@
 
 ## Hello, devs!!
 
-#### Tenho 26 anos e moro em São Paulo/SP. Sou estudante do 3º semestre de Análises e Desenvolvimento de Sistemas pela faculdade SPTECH.
+#### Tenho 27 anos e moro em São Paulo/SP. Sou formada em Tecnologo em Análises e Desenvolvimento de Sistemas pela faculdade SPTECH.
 <img src="https://i.imgur.com/CzYiNt9.png" height="300px">
 
 ## Tecnologias e linguagens
