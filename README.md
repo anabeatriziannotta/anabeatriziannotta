@@ -14,7 +14,7 @@
 
 #### :notebook_with_decorative_cover: Estou em transição de carreira;
 #### :microscope: Já sou formada em Engenharia Química e Alimentos; 
-#### 🐱: E sou a Felícia dos animais rsrs
+#### 🐱 E sou a Felícia dos animais rsrs
 
 
 <!-- <div>
